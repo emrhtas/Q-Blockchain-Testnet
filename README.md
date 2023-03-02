@@ -13,11 +13,6 @@
  * [Medium Detay](https://medium.com/q-blockchain/q-blockchain-validator-onboarding-program-part-1-validator-incentivized-testnet-567ef6e4002e)
  * [Ödül Kayıt Linki](https://itn.qdev.li/)
  
- <br> 
-Kayıt 31 Aralık 2022 tarihine kadar devam edecek Testnet Yaklaşık 3 ay sürecek 01 Ocak 2023 tarihinde başlayacak ve 31 Mart 2023'e kadar sürecek Linkteki adresten kayıt olmanız gerekiyor Önce Node kurmanız gerekli. Kayıt olduktan sonra size bir isim verecek ve aşağıdaki işlemleri yapacaksınız Multi Yasak ve Discord adreslerine girmeniz gerekiyor.
- 
- <br><br>
- 
 Matemask Q ağını Ekleyin.
 
 * Ağ Adı : Q Test Ağı
@@ -37,20 +32,6 @@ dizininde bulunan  docker-compose.yaml  dosyasındaki adınızı değiştireceks
 
  
 <br>ÖNCE NODE KURUYORSUNUZ AŞAĞIDAKİ GİBİ DAHA SONRA KAYIT OLUYORSUNUZ. DAHA SONRA ÜSTTEKİ İŞLEMLERİ YAPIYOR VE İSMİ DEĞİŞTİRİYORSUNUZ DEĞİŞTİRDİKTEN SONRA NODEYİ DURDURUP TEKRAR BAŞLATMANIZ GEREKİYOR.
-
-
-
-## 🟢 Güncelleme
-
-1.2.2 tarihli güncelleme En alttadır Kurulum sonrası güncellemeyi yapınız.
-
-
-
-### Linkler:
- * [Yeni Node Testnet Telegram Kanalı](https://t.me/HerculesNode)
- * [Telegram Yardım Kanalımız](https://t.me/QblockchainTurkey)
- * [QBlockChain Discord Kanalı](https://discord.gg/aYDmNjrsJC)
- * [QBlockChain Twitter Kanalı](https://twitter.com/QBlockchain)
  
 
 ## 🟢 Gerekli notlar:
