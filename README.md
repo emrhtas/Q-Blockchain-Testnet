@@ -1,11 +1,5 @@
 # Q-Blockchain-Testnet
 
-
-
-## 🟢 Ödül Programı
-
- * [Medium Detay](https://medium.com/q-blockchain/q-blockchain-validator-onboarding-program-part-1-validator-incentivized-testnet-567ef6e4002e)
- * [Ödül Kayıt Linki](https://itn.qdev.li/)
  
 Matemask Q ağını Ekleyin.
 
@@ -14,19 +8,8 @@ Matemask Q ağını Ekleyin.
 * Zincir Kimliği : 35443
 * Para Birimi Sembolü : Q
 * Blok Gezgini URL Adresi : https://explorer.qtestnet.org
-<br>
-Kayıt sonrası size Örnek  : TN-Hercules-47ds34 Böyle bir isim verecek  
-<br>cd testnet-public-tools/testnet-validator/  
- 
-dizininde bulunan  docker-compose.yaml  dosyasındaki adınızı değiştireceksiniz. Stats explorer adresinde aşağıdaki gibi görünecek adresiniz
 
-<br>
 
-![image](https://user-images.githubusercontent.com/101635385/206707554-02792278-1508-40fc-a3d8-12a904561a83.png)
-
- 
-<br>ÖNCE NODE KURUYORSUNUZ AŞAĞIDAKİ GİBİ DAHA SONRA KAYIT OLUYORSUNUZ. DAHA SONRA ÜSTTEKİ İŞLEMLERİ YAPIYOR VE İSMİ DEĞİŞTİRİYORSUNUZ DEĞİŞTİRDİKTEN SONRA NODEYİ DURDURUP TEKRAR BAŞLATMANIZ GEREKİYOR.
- 
 
 ## 🟢 Gerekli notlar:
 ### Explorer:
@@ -34,27 +17,7 @@ dizininde bulunan  docker-compose.yaml  dosyasındaki adınızı değiştireceks
 ### Faucet:
  * [FAUCET](https://faucet.qtestnet.org/)
  
-
- * Testnet Teşvikli olduğunu söylüyorlar. Sitesinden inceleyebilirsiniz. 
  * 1- kurulum cd testnet-public-tools/testnet-validator/ dizininde yapılması gerekiyor. 
- * 2- Kurulum cd  testnet-public-tools/omnibridge-oracle/ dizininde yapılması gerekiyor.
- * 3- Kurulum cd  testnet-public-tools/omnibridge-ui/  dizininde yapılması gerekiyor.
- * 4- Kurulum cd  testnet-public-tools/omnibridge-alm/  dizininde yapılması gerekiyor.
- 
- * 4 parti kurulumdan oluşuyor Önce Validatör kuruyoruz daha sonra Oracle kurulumu yapıyoruz.
- 
- * `https://rpc.ankr.com/eth_rinkeby` Rinkeby Testnet RPC ekleyeceğiz
-
-
- ## 🟢 Kurulumlar:
- ## 2-3-4. kurulumlar Testnetten Muaf Tutuldu kurup kurmamak size kalmış.
-
- * 1 testnet-public-tools/testnet-validator/ <br><br>
- * 2 testnet-public-tools/omnibridge-oracle  <br>
- * 3 testnet-public-tools/omnibridge-ui <br>
- * 4 testnet-public-tools/omnibridge-alm <br>
-
-
 
  
  ## 🟢 Sistemi Gereksinimleri
